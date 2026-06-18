@@ -14,3 +14,7 @@ print(student["name"])
 
 These keys are normally strings, but can be integers
 
+```python
+print(student["name"])
+#gives the data of the value stored for the specific key,
+```
